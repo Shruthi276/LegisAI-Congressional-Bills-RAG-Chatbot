@@ -1,0 +1,11 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+shap==0.44.1
+jupyter==1.0.0
+plotly==5.18.0
+nbformat==5.9.2
+python-dotenv==1.0.1

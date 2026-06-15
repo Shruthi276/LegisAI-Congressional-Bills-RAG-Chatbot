@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data files (Too large for GitHub)
+*.csv
+*.jsonl
+*.json
+*.pkl
+
+# Exception: Allow sample data so recruiters can see it!
+!sample_data/*.csv
+!sample_data/*.jsonl
+
+# Vector Database
+chroma_db/
+
+# OS generated files
+.DS_Store
+Thumbs.db

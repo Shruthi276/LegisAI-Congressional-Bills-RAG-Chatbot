@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# --- Data files (too large for git) ---
+data/
+*.jsonl
+*.csv
+*.pkl
+
+# --- ChromaDB index ---
+chroma_db/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/

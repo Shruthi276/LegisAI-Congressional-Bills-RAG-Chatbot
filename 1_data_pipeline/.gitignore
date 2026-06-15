@@ -1,0 +1,16 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# --- Data files (too large for git) ---
+data/
+*.jsonl
+*.csv
+*.pkl
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
