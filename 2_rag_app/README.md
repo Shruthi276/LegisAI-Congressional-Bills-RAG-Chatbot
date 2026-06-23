@@ -70,6 +70,8 @@ streamlit run app.py
 ##  Deployment (Hugging Face Spaces)
 This application is fully configured to be deployed on Hugging Face Spaces. The `config.py` uses dynamic path resolution, allowing you to drag and drop `app.py`, `config.py`, the `chroma_db/` directory, and your `.pkl/.csv` files directly into a Hugging Face Streamlit Space for instant, free hosting.
 
+ **Live Demo:**
+*https://huggingface.co/spaces/shruthirathod/LegisAI-Bills-Tracker*
 ---
 
 ##  Tech Stack
