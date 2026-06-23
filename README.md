@@ -23,7 +23,7 @@ This repository is organized into a monorepo containing two main sub-projects:
 * **Dynamic UI**: Features a modern, clean light-themed dashboard with probability progress bars, XGBoost signal indicators, and metadata filtering.
 
 ##  Live Demo
-*(Insert your Hugging Face Spaces link here once deployed!)*
+*https://huggingface.co/spaces/shruthirathod/LegisAI-Bills-Tracker*
 
 ---
 
